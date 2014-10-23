@@ -35,4 +35,4 @@ Taught by @profnandaa / Teaching Assistants: @shimanyi, Alexander Mwangi
 
 
 ##Reference Material##
-* A Byte of Python
+* [A Byte of Python](http://files.swaroopch.com/python/byte_of_python.pdf) - a minimal 118 pages (yes 118, it's not typo!) that no sane person should be afraid to read :)
