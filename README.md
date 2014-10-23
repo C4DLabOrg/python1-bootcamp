@@ -3,6 +3,10 @@ python1-bootcamp
 
 Code snippets for starting off Python (for beginners).
 
+Aim: to introduce you to Python and make you love it. It's just a tip of the iceberg. Do not expect to be a guru in 4 days (actually 4 x 2 hours)! But you will be surely way better :)
+
+Can we do this?
+
 ##Schedule##
 
 ###Bootcamp #1 ###
