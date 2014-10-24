@@ -13,7 +13,7 @@ Can we do this?
 
 8hr Python Bootcamp @ C4DLab, October 27-30, 2014 (6-8pm).
 
-Taught by @profnandaa / Teaching Assistants: @shimanyi, Alexander Mwangi
+Taught by [@profnandaa](https://github.com/profnandaa) / Teaching Assistants: [@shimanyi](https://github.com/shimanyi), [@AlexanderMwangi](https://github.com/AlexanderMwangi)
 
 ####Day 1 of 4 ####
 * Introduction and Installation
