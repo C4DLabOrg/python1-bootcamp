@@ -24,7 +24,7 @@ Taught by [@profnandaa](https://github.com/profnandaa) / Teaching Assistants: [@
 * Working with Files (.py)
 * Exploring Python Basics
 * Operators and Expressions
-* ~Control Flows~
+* Control Flows
 * Assignment #1
 
 ####Day 3 of 4 ####
