@@ -28,6 +28,11 @@ Taught by [@profnandaa](https://github.com/profnandaa) / Teaching Assistants: [@
 * Assignment #1
 
 ####Day 3 of 4 ####
+* Data Structures Overview (check pg. 62 of the _A Byte of Python_ book)
+	* List
+	* Tuple
+	* Dictionary
+	* Set
 * Control Flows
 * Functions
 * Modules
@@ -62,5 +67,6 @@ Taught by [@profnandaa](https://github.com/profnandaa) / Teaching Assistants: [@
 * [Day 3](#) - not yet
 * [Day 4](#) - not yet
 
-##Reference Material##
+##Further Reading##
 * [A Byte of Python](http://files.swaroopch.com/python/byte_of_python.pdf) - a minimal 118 pages (yes 118, it's not typo!) that no sane person should be afraid to read :)
+* [Static vs. dynamic typing of programming languages](http://pythonconquerstheuniverse.wordpress.com/2009/10/03/static-vs-dynamic-typing-of-programming-languages/)
