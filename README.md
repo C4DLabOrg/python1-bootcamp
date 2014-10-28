@@ -54,6 +54,7 @@ Taught by [@profnandaa](https://github.com/profnandaa) / Teaching Assistants: [@
 	* [GitHub](https://github.com/)
 	* [BitBucket](https://bitbucket.org/)
 	* [StackOverflow](https://stackoverflow.com/users/signup)
+* Move to a UNIX flavour if you are still on Windows (What were you thinking? ;) ) - see discussions like [these ones](http://www.reddit.com/r/learnprogramming/comments/1ugvgh/is_linux_better_for_programming/).
 * Get to know a new person from the class :)
 
 ##Links to Presentations##
