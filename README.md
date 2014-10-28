@@ -45,11 +45,11 @@ Taught by [@profnandaa](https://github.com/profnandaa) / Teaching Assistants: [@
 	* Write simple code expression(s) for finding hypotenuse given `a` and `b`
 	* Write simple code expression(s) for finding **x** in a quadratic equation given **x<sup>2</sup> + 5x + 10 = 0** (Hint: check [quadratic formula](http://en.wikipedia.org/wiki/Quadratic_formula))
 
-2. **Day 3 **
+2. **Day 3**
 	* Coming...
 
 ##Thing to do before end of Bootcamp##
-* Join mailinglist - c4dlab-bootcamps@googlegroups.com
+* Join the [C4DLab Bootcamp Mailinglist] (https://groups.google.com/forum/#!forum/c4dlab-bootcamps) - c4dlab-bootcamps[at]googlegroups.com
 * Sign up on:
 	* [GitHub](https://github.com/)
 	* [BitBucket](https://bitbucket.org/)
