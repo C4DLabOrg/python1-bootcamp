@@ -24,7 +24,7 @@ Taught by [@profnandaa](https://github.com/profnandaa) / Teaching Assistants: [@
 * Working with Files (.py)
 * Exploring Python Basics
 * Operators and Expressions
-* Control Flows
+* ~~Control Flows~~
 * Assignment #1
 
 ####Day 3 of 4 ####
@@ -39,6 +39,22 @@ Taught by [@profnandaa](https://github.com/profnandaa) / Teaching Assistants: [@
 * What Next
 * Assignment #3
 * Coding Challenge (To be Announced)
+
+##Assignments##
+1. **Day 2**
+	* Write simple code expression(s) for finding hypotenuse given `a` and `b`
+	* Write simple code expression(s) for finding **x** of a quadratic equation given **x<sup>2</sup> + 5x + 10 = 0**
+
+2. **Day 3 **
+	* Coming...
+
+##Thing to do before end of Bootcamp##
+* Join mailinglist - c4dlab-bootcamps@googlegroups.com
+* Sign up on:
+	* [GitHub](https://github.com/)
+	* [BitBucket](https://bitbucket.org/)
+	* [StackOverflow](https://stackoverflow.com/users/signup)
+* Get to know a new person from the class :)
 
 ##Links to Presentations##
 * [Day 2](https://docs.google.com/presentation/d/1_qRTegFIwTGfvnjzZ_txHI9BxKThS2MXXddG8IK_74k/pub?start=false&loop=false&delayms=3000)
