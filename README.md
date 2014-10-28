@@ -43,7 +43,7 @@ Taught by [@profnandaa](https://github.com/profnandaa) / Teaching Assistants: [@
 ##Assignments##
 1. **Day 2**
 	* Write simple code expression(s) for finding hypotenuse given `a` and `b`
-	* Write simple code expression(s) for finding **x** of a quadratic equation given **x<sup>2</sup> + 5x + 10 = 0**
+	* Write simple code expression(s) for finding **x** in a quadratic equation given **x<sup>2</sup> + 5x + 10 = 0** (Hint: check [quadratic formula](http://en.wikipedia.org/wiki/Quadratic_formula))
 
 2. **Day 3 **
 	* Coming...
