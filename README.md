@@ -5,7 +5,7 @@ Code snippets for starting off Python (for beginners).
 
 Aim: to introduce you to Python and make you love it. It's just a tip of the iceberg. Do not expect to be a guru/beast/ninja in 4 days (actually 4 x 2 hours)! But you will be surely way better :)
 
-> **Official Website** : [c4dlab.ac.ke/ptyhon](http://www.c4dlab.ac.ke/ptyhon)
+> **Official Website** : [c4dlab.ac.ke/python](http://www.c4dlab.ac.ke/python)
 > **HashTag** : [#c4dlabpython](#) - On Twitter and Google+, use it for comments, questions, shout-outs, etc, it's 21st Century Learning :)
 
 ##Schedule##
