@@ -64,5 +64,15 @@ Example
 
 '''
 
+'''
+(6) Multiple initialization
+
+e.g:
+'''
+
+name, age, nationality = "James", 45, "Kenyan"
+
+print("{0} is {1} years old, and is {2}".format(name,age,nationality))
+
 
 

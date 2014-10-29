@@ -73,6 +73,7 @@ Taught by [@profnandaa](https://github.com/profnandaa) / Teaching Assistants: [@
 ##Further Reading##
 * [A Byte of Python](http://files.swaroopch.com/python/byte_of_python.pdf) - a minimal 118 pages (yes 118, it's not typo!) that no sane person should be afraid to read :)
 * [Static vs. dynamic typing of programming languages](http://pythonconquerstheuniverse.wordpress.com/2009/10/03/static-vs-dynamic-typing-of-programming-languages/)
+* Official documentation on [Data Structures](https://docs.python.org/2/tutorial/datastructures.html)
 
 ##Follow up after Bootcamp##
 We will be offering free follow-up services after the bootcamp. Feel free to ping any of us, whenever you need any help:
