@@ -55,7 +55,7 @@ Taught by [@profnandaa](https://github.com/profnandaa) / Teaching Assistants: [@
 	* Coming...
 
 ##Thing to do before end of Bootcamp##
-* Join the [C4DLab Bootcamp Mailinglist] (https://groups.google.com/forum/#!forum/c4dlab-bootcamps) - c4dlab-bootcamps[at]googlegroups.com
+* Join the [C4DLab Bootcamp Mailinglist](https://groups.google.com/forum/#!forum/c4dlab-bootcamps) - c4dlab-bootcamps[at]googlegroups.com
 * Sign up on:
 	* [GitHub](https://github.com/)
 	* [BitBucket](https://bitbucket.org/)
@@ -64,10 +64,11 @@ Taught by [@profnandaa](https://github.com/profnandaa) / Teaching Assistants: [@
 * Move to a UNIX flavour if you are still on Windows (What were you thinking? ;) ) - see discussions like [these ones](http://www.reddit.com/r/learnprogramming/comments/1ugvgh/is_linux_better_for_programming/).
 * Get to know a new person from the class :)
 * Sign up on [Udacity](https://www.udacity.com/) and start learning great stuff on your own and at your own pace! 
+* Fill the [End-of-Bootcamp (EOB) Survey](https://docs.google.com/forms/d/1MZ5uj5lrf02WwSXp4kqOuLb7SV046-aV5cSnnxHv6jk/viewform), let's know what you think.
 
 ##Links to Presentations##
 * [Day 2](https://docs.google.com/presentation/d/1_qRTegFIwTGfvnjzZ_txHI9BxKThS2MXXddG8IK_74k/pub?start=false&loop=false&delayms=3000)
-* [Day 3](#) - not yet
+* [Day 3](https://docs.google.com/presentation/d/1GiaHaSf3wj5cILWBv4yXwFIIo5Z-VmMQ0jLeh9BTm_w/pub?start=false&loop=false&delayms=3000)
 * [Day 4](#) - not yet
 
 ##Further Reading##
