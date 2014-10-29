@@ -62,7 +62,7 @@ Taught by [@profnandaa](https://github.com/profnandaa) / Teaching Assistants: [@
 	* [oDesk](https://www.odesk.com/)
 * Move to a UNIX flavour if you are still on Windows (What were you thinking? ;) ) - see discussions like [these ones](http://www.reddit.com/r/learnprogramming/comments/1ugvgh/is_linux_better_for_programming/).
 * Get to know a new person from the class :)
-* Sign up on [Udacity] and start learning great stuff on your own and at your own pace! 
+* Sign up on [Udacity](https://www.udacity.com/) and start learning great stuff on your own and at your own pace! 
 
 ##Links to Presentations##
 * [Day 2](https://docs.google.com/presentation/d/1_qRTegFIwTGfvnjzZ_txHI9BxKThS2MXXddG8IK_74k/pub?start=false&loop=false&delayms=3000)
