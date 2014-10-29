@@ -17,8 +17,10 @@ langs.sort()
 
 print(langs)
 
+#print the third on the list
 print(langs[2])
 
+#delete the 3rd on the list
 
 
 

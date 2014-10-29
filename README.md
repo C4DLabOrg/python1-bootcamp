@@ -34,15 +34,18 @@ Taught by [@profnandaa](https://github.com/profnandaa) / Teaching Assistants: [@
 	* Tuple
 	* Dictionary
 	* Set
-* Control Flows
-* Functions
-* Modules
+* ~~Control Flows~~
+* ~~Functions~~
+* ~~Modules~~
 * Assignment #2
 
 ####Day 4 of 4 ####
+* Control Flows
+* Functions
+* Modules
 * Input Output
 * Standard Library
-* What Next
+* What Next?
 * Assignment #3
 * Coding Challenge (To be Announced)
 
@@ -52,6 +55,8 @@ Taught by [@profnandaa](https://github.com/profnandaa) / Teaching Assistants: [@
 	* Write simple code expression(s) for finding **x** in a quadratic equation given **x<sup>2</sup> + 5x + 3 = 0** (Hint: check [quadratic formula](http://en.wikipedia.org/wiki/Quadratic_formula))
 
 2. **Day 3**
+	* Revise data structures learnt in Day 3
+3. **Day 4**
 	* Coming...
 
 ##Thing to do before end of Bootcamp##
@@ -82,3 +87,17 @@ We will be offering free follow-up services after the bootcamp. Feel free to pin
 * @ProfNandaa - prof[at]nandaa.com
 * @shimanyi - shimanyi[at]sisitech.com 
 * @AlexanderMwangi - alexandermwangi1[at]gmail.com
+
+##So what's next?##
+Here are a few suggestions for you:
+###Recommended Online Courses ###
+* [Udacity: CS101 - Intro to Computer Science](https://www.udacity.com/course/cs101) - uses Python to introduce Computer Science concepts. Highly recommended for first-time programmers and CS majors alike.
+* [Udacity: Programming Foundations with Python](https://www.udacity.com/course/ud036)
+* [Udacity: How to use Git and GitHub](https://www.udacity.com/course/ud775)
+
+###Recommended Books###
+* David M. Beazley (2006), _Python: Essential Reference_, 3rd Ed. - for a better understanding of the language
+* 
+
+###Moving on to Django###
+* Forcier,J., Bissex,P. & Chun,W. (2009), _Python Web Development with Django_, 3rd. Ed.
