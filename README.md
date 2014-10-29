@@ -59,6 +59,7 @@ Taught by [@profnandaa](https://github.com/profnandaa) / Teaching Assistants: [@
 	* [GitHub](https://github.com/)
 	* [BitBucket](https://bitbucket.org/)
 	* [StackOverflow](https://stackoverflow.com/users/signup)
+	* [oDesk](https://www.odesk.com/)
 * Move to a UNIX flavour if you are still on Windows (What were you thinking? ;) ) - see discussions like [these ones](http://www.reddit.com/r/learnprogramming/comments/1ugvgh/is_linux_better_for_programming/).
 * Get to know a new person from the class :)
 * Sign up on [Udacity] and start learning great stuff on your own and at your own pace! 
