@@ -61,6 +61,7 @@ Taught by [@profnandaa](https://github.com/profnandaa) / Teaching Assistants: [@
 	* [StackOverflow](https://stackoverflow.com/users/signup)
 * Move to a UNIX flavour if you are still on Windows (What were you thinking? ;) ) - see discussions like [these ones](http://www.reddit.com/r/learnprogramming/comments/1ugvgh/is_linux_better_for_programming/).
 * Get to know a new person from the class :)
+* Sign up on [Udacity] and start learning great stuff on your own and at your own pace! 
 
 ##Links to Presentations##
 * [Day 2](https://docs.google.com/presentation/d/1_qRTegFIwTGfvnjzZ_txHI9BxKThS2MXXddG8IK_74k/pub?start=false&loop=false&delayms=3000)
@@ -70,3 +71,9 @@ Taught by [@profnandaa](https://github.com/profnandaa) / Teaching Assistants: [@
 ##Further Reading##
 * [A Byte of Python](http://files.swaroopch.com/python/byte_of_python.pdf) - a minimal 118 pages (yes 118, it's not typo!) that no sane person should be afraid to read :)
 * [Static vs. dynamic typing of programming languages](http://pythonconquerstheuniverse.wordpress.com/2009/10/03/static-vs-dynamic-typing-of-programming-languages/)
+
+##Follow up after Bootcamp##
+We will be offering free follow-up services after the bootcamp. Feel free to ping any of us, whenever you need any help:
+* @ProfNandaa - prof[at]nandaa.com
+* @shimanyi - shimanyi[at]sisitech.com 
+* @AlexanderMwangi - alexandermwangi1[at]gmail.com
