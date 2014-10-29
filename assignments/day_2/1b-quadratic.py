@@ -1,14 +1,15 @@
 import math
 
 #Quad formula: x*x + 5x + 3 = 0
+#use input() for Python v.3.x
+print("Given a quadratic equation, ax2+bx+c = 0")
+a = raw_input("Give a: ")
+b = raw_input("Give b: ")
+c = raw_input("Give c: ")
 
-a = 1
-b = 5
-c = 3
+x1 = (-b + math.sqrt(b*b - 4*a*c))/(2.0*a)
 
-x1 = (-b + math.sqrt(b*b - 4*a*c))/(2*a)
-
-x2 = (-b - math.sqrt(b*b - 4*a*c))/(2*a)
+x2 = (-b - math.sqrt(b*b - 4*a*c))/(2.0*a)
 
 print("x1 is {0} and x2 is {1}".format(x1,x2))
 
