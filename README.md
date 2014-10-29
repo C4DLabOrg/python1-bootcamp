@@ -76,6 +76,7 @@ Taught by [@profnandaa](https://github.com/profnandaa) / Teaching Assistants: [@
 
 ##Follow up after Bootcamp##
 We will be offering free follow-up services after the bootcamp. Feel free to ping any of us, whenever you need any help:
+* Class Mailinglist - c4dlab-bootcamps@googlegroups.com
 * @ProfNandaa - prof[at]nandaa.com
 * @shimanyi - shimanyi[at]sisitech.com 
 * @AlexanderMwangi - alexandermwangi1[at]gmail.com
