@@ -3,7 +3,8 @@ python1-bootcamp
 
 Code snippets for starting off Python (for beginners).
 
-Aim: to introduce you to Python and make you love it. It's just a tip of the iceberg. Do not expect to be a guru/beast/ninja in 4 days (actually 4 x 2 hours)! But you will be surely way better :)
+Aim: to introduce you to Python and make you love it. It's just a tip of the iceberg. Do not expect to be a guru/beast/ninja in 4 days (actually 4 x 2 hours)! But you will be surely way better :) 
+This short course (bootcamp) only aims to **get you started** with Python!
 
 > **Official Website** : [c4dlab.ac.ke/python](http://www.c4dlab.ac.ke/python)
 > **HashTag** : [#c4dlabpython](#) - On Twitter and Google+, use it for comments, questions, shout-outs, etc, it's 21st Century Learning :)
@@ -43,8 +44,8 @@ Taught by [@profnandaa](https://github.com/profnandaa) / Teaching Assistants: [@
 ####Day 4 of 4 ####
 * Control Flows
 * Functions
-* Modules
-* Input Output
+* ~~Modules~~
+* Input/Output (_covered in Day 3_)
 * Standard Library
 * What Next?
 * Assignment #3
@@ -115,3 +116,6 @@ A good place to get them is here:
 
 ###Moving on to Django###
 * Forcier,J., Bissex,P. & Chun,W. (2009), _Python Web Development with Django_, 3rd. Ed.
+
+###Others###
+* [CodingBat.com](http://codingbat.com) 
