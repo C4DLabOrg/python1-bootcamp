@@ -7,6 +7,7 @@ Aim: to introduce you to Python and make you love it. It's just a tip of the ice
 
 > **Official Website** : [c4dlab.ac.ke/python](http://www.c4dlab.ac.ke/python)
 > **HashTag** : [#c4dlabpython](#) - On Twitter and Google+, use it for comments, questions, shout-outs, etc, it's 21st Century Learning :)
+> **Bootcamp Google Groups** -  [Join](https://groups.google.com/forum/#!forum/c4dlab-bootcamps)
 
 ##Schedule##
 
