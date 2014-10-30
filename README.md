@@ -92,7 +92,7 @@ Feel free to ping any of us, whenever you need any help:
 * @AlexanderMwangi - alexandermwangi1[at]gmail.com
 
 ###Office Hours###
-We will provide face-to-face consultations on:
+We will provide face-to-face consultations (November - December, 2014) on:
 * Wednesdays 4-5 pm
 * Fridays 2-3 pm
 
