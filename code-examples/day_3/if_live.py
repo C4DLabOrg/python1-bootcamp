@@ -1,0 +1,3 @@
+student1 = {
+	'nam'
+}

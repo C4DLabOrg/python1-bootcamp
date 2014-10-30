@@ -1,28 +1,31 @@
 langs = ['C++','C#','Java','Objective C','Prolog',
 		'SmallTalk','Simula','Python']
 
-print(langs)
+print(langs[0:3])
+print(langs[3:])
 
-langs.append("JavaScript")
+# print(langs)
 
-langs.append("VB.NET")
+# langs.append("JavaScript")
 
-langs.append("Pascal")
+# langs.append("VB.NET")
 
-langs.append("Cobol")
+# langs.append("Pascal")
 
-print(langs)
+# langs.append("Cobol")
 
-langs.sort()
+# print(langs)
 
-print(langs)
+# langs.sort()
 
-#print the third on the list
-print(langs[2])
+# print(langs)
 
-#delete the 3rd on the list
+# #print the third on the list
+# print(langs[2])
+
+# #delete the 3rd on the list
 
 
 
 
-#list within a list
+# #list within a list
