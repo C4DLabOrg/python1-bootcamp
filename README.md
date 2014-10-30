@@ -103,9 +103,15 @@ Here are a few suggestions for you:
 * [Udacity: Programming Foundations with Python](https://www.udacity.com/course/ud036)
 * [Udacity: How to use Git and GitHub](https://www.udacity.com/course/ud775)
 
+###Get a bunch of Python nerds###
+A good place to get them is here:
+* [Nairobi Python User Group (NaiPUG)](http://www.meetup.com/Python-Nairobi/)
+* TBD
+
+
 ###Recommended Books###
 * David M. Beazley (2006), _Python: Essential Reference_, 3rd Ed. - for a better understanding of the language
-* 
+* TBD
 
 ###Moving on to Django###
 * Forcier,J., Bissex,P. & Chun,W. (2009), _Python Web Development with Django_, 3rd. Ed.
