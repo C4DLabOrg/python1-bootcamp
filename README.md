@@ -83,13 +83,20 @@ Taught by [@profnandaa](https://github.com/profnandaa) / Teaching Assistants: [@
 * Official documentation on [Data Structures](https://docs.python.org/2/tutorial/datastructures.html)
 
 ##Follow up after Bootcamp##
-We will be offering free follow-up services after the bootcamp. Feel free to ping any of us, whenever you need any help:
+We will be offering free follow-up services after the bootcamp. 
+###Email###
+Feel free to ping any of us, whenever you need any help:
 * Class Mailinglist - c4dlab-bootcamps@googlegroups.com
 * @ProfNandaa - prof[at]nandaa.com
 * @shimanyi - shimanyi[at]sisitech.com 
 * @AlexanderMwangi - alexandermwangi1[at]gmail.com
 
-##So what's next?##
+###Office Hours###
+We will provide face-to-face consultations on:
+* Wednesdays 4-5 pm
+* Fridays 2-3 pm
+
+##So you know some Python, what next?##
 Here are a few suggestions for you:
 ###Recommended Online Courses ###
 * [Udacity: CS101 - Intro to Computer Science](https://www.udacity.com/course/cs101) - uses Python to introduce Computer Science concepts. Highly recommended for first-time programmers and CS majors alike.
