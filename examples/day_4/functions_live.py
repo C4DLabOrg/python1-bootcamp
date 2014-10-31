@@ -145,7 +145,7 @@ for i in tallies:
 print("\n----drums roll----\n")
 
 print("And the winner is {0} with {1} votes".format(winner,highest))
-print("\n----end of elections, tyrany of numbers! :)----\n")
+print("\n----end of elections, tyranny of numbers! :)----\n")
 
 
 '''
