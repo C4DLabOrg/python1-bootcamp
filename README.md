@@ -1,5 +1,6 @@
-python1-bootcamp
-================
+C4DLab Python Bootcamp
+======================
+Version 1.0 (c) Oct, 2014
 
 Code snippets for starting off Python (for beginners).
 
