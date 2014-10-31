@@ -77,7 +77,7 @@ Taught by [@profnandaa](https://github.com/profnandaa) / Teaching Assistants: [@
 ##Links to Presentations##
 * [Day 2](https://docs.google.com/presentation/d/1_qRTegFIwTGfvnjzZ_txHI9BxKThS2MXXddG8IK_74k/pub?start=false&loop=false&delayms=3000)
 * [Day 3](https://docs.google.com/presentation/d/1GiaHaSf3wj5cILWBv4yXwFIIo5Z-VmMQ0jLeh9BTm_w/pub?start=false&loop=false&delayms=3000)
-* Day 4 - not yet
+* Day 4 - not presentation, just code
 
 ##Further Reading##
 * [A Byte of Python](http://files.swaroopch.com/python/byte_of_python.pdf) - a minimal 118 pages (yes 118, it's not typo!) that no sane person should be afraid to read :)
