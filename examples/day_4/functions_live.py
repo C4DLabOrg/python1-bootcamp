@@ -27,8 +27,7 @@ If you followed our example above, we wish to
 refine this function into proper function(s)
 
 We want to have one function that counts 
-election votes, and another one that rigs
-(especially for one candidate)!
+election votes and rigs (conditionally)
 
 First, let's start with better data structures.
 We want to store the name of the candidates,
@@ -43,7 +42,7 @@ tallies:
 		- Napythoni
 		- Kizumu
 		- Gost
-	Saw we can simply store the votes as a list
+	So we can simply store the votes as a list
 	rather than a dictionary within a dictionary
 	(though this way too is fine)
 	* We have a key in each dictionary called 'total'
@@ -146,7 +145,7 @@ for i in tallies:
 print("\n----drums roll----\n")
 
 print("And the winner is {0} with {1} votes".format(winner,highest))
-print("\n----end of elections, go to the court if you want! :)----\n")
+print("\n----end of elections, tyrany of numbers! :)----\n")
 
 
 '''
