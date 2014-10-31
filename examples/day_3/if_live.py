@@ -1,3 +1,0 @@
-student1 = {
-	'nam'
-}
