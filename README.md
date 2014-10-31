@@ -8,7 +8,7 @@ This short course (bootcamp) only aims to **get you started** with Python!
 
 > **Official Website** : [c4dlab.ac.ke/python](http://www.c4dlab.ac.ke/python)
 > **HashTag** : [#c4dlabpython](#) - On Twitter and Google+, use it for comments, questions, shout-outs, etc, it's 21st Century Learning :)
-> **Bootcamp Google Groups** -  [Join](https://groups.google.com/forum/#!forum/c4dlab-bootcamps)
+> **[Join Bootcamps Google Group](https://groups.google.com/forum/#!forum/c4dlab-bootcamps)
 
 ##Schedule##
 
